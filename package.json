@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.4.0",
+    "@material-ui/icons": "^4.2.1",
     "react": "^16.9.0",
+    "react-device-detect": "^1.7.5",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },
@@ -27,5 +30,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://vova-continuum.com/gammes-app"
 }
